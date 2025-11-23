@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23699286/README.md)
-
 # Desafio Detective Quest
 
 ## Descrição da solução
